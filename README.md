@@ -4,6 +4,7 @@ Final project for Udacity's FSND Project 5. Describes how to configure a Linux s
     IP Address: 35.182.227.203
     SSH Port: 2200
     Url: 35.182.227.203.xip.io
+    DNS: http://ec2-35-182-227-203.ca-central-1.compute.amazonaws.com/
 
     To log into server:
     ssh grader@35.182.227.203 -p 2200 -i ~/.ssh/id_rsa
