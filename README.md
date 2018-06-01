@@ -41,3 +41,5 @@ Final project for Udacity's FSND Project 5. Describes how to configure a Linux s
 - Installed Flask and created a Virtual Environment for project 3
 - Added any additional software for the Application
 - Updated OAuth information for Google login
+
+Special Thanks to [twhetzel](https://github.com/twhetzel) for a very helpful [README](https://github.com/twhetzel/ud299-nd-linux-server-configuration).
